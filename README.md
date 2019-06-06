@@ -1,6 +1,10 @@
 Docker file for deploy
 
-nginx + python3.7 + django application 
+1) nginx + python3.7 + django application 
 
 - uwsgi
 - gunicorn
+
+2) ./awx-dash
+
+- ansible awx with dash app
